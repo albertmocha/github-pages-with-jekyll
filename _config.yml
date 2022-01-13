@@ -1,4 +1,5 @@
 title: My Github
+theme: minima
 author: Albert Mocha
 email: albert.mocha2@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
